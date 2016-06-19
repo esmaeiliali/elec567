@@ -1,0 +1,88 @@
+[**] [1:2466:7] NETBIOS SMB-DS IPC$ unicode share access [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+04/19-20:28:29.447746 106.123.195.37:1828 -> 206.159.141.23:445
+TCP TTL:113 TOS:0x0 ID:15371 IpLen:20 DgmLen:138 DF
+***AP*** Seq: 0x8CFF932  Ack: 0x5BD51092  Win: 0xF91D  TcpLen: 20
+
+[**] [1:1000006:0] SMB Tree Connect Andx request [**]
+[Priority: 0] 
+04/19-20:28:29.447746 106.123.195.37:1828 -> 206.159.141.23:445
+TCP TTL:113 TOS:0x0 ID:15371 IpLen:20 DgmLen:138 DF
+***AP*** Seq: 0x8CFF932  Ack: 0x5BD51092  Win: 0xF91D  TcpLen: 20
+
+[**] [1:1000007:0] SMB Tree Connect Andx request lsarpc [**]
+[Priority: 0] 
+04/19-20:28:29.681740 106.123.195.37:1828 -> 206.159.141.23:445
+TCP TTL:113 TOS:0x0 ID:15382 IpLen:20 DgmLen:144 DF
+***AP*** Seq: 0x8CFF994  Ack: 0x5BD510CE  Win: 0xF8E1  TcpLen: 20
+
+[**] [1:2514:7] NETBIOS SMB-DS DCERPC LSASS DsRolerUpgradeDownlevelServer exploit attempt [**]
+[Classification: Attempted Administrator Privilege Gain] [Priority: 1] 
+04/19-20:28:30.172468 106.123.195.37:1828 -> 206.159.141.23:445
+TCP TTL:113 TOS:0x0 ID:15421 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x8CFFA9C  Ack: 0x5BD511D9  Win: 0xF7D6  TcpLen: 20
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0533][Xref => http://www.securityfocus.com/bid/10108]
+
+[**] [1:1000005:0] unknown content been sent or recieved on port 1957 [**]
+[Priority: 0] 
+04/19-20:28:30.466428 106.123.195.37:1924 -> 206.159.141.23:1957
+TCP TTL:113 TOS:0x0 ID:15455 IpLen:20 DgmLen:48 DF
+******S* Seq: 0x9128DAD  Ack: 0x0  Win: 0xFAF0  TcpLen: 28
+TCP Options (4) => MSS: 1460 NOP NOP SackOK 
+
+[**] [1:2514:7] NETBIOS SMB-DS DCERPC LSASS DsRolerUpgradeDownlevelServer exploit attempt [**]
+[Classification: Attempted Administrator Privilege Gain] [Priority: 1] 
+04/19-20:28:30.180587 106.123.195.37:1828 -> 206.159.141.23:445
+TCP TTL:240 TOS:0x10 ID:0 IpLen:20 DgmLen:3360
+***AP*** Seq: 0x0  Ack: 0x0  Win: 0x0  TcpLen: 20
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0533][Xref => http://www.securityfocus.com/bid/10108]
+
+[**] [1:1000005:0] unknown content been sent or recieved on port 1957 [**]
+[Priority: 0] 
+04/19-20:28:30.583738 106.123.195.37:1924 -> 206.159.141.23:1957
+TCP TTL:113 TOS:0x0 ID:15463 IpLen:20 DgmLen:40 DF
+***A**** Seq: 0x9128DAE  Ack: 0x5CA06265  Win: 0xFAF0  TcpLen: 20
+
+[**] [1:1000008:0] smss.exe is being transfered over TCP [**]
+[Priority: 0] 
+04/19-20:28:31.819551 106.123.195.37:1924 -> 206.159.141.23:1957
+TCP TTL:113 TOS:0x0 ID:15568 IpLen:20 DgmLen:163 DF
+***AP*** Seq: 0x9128DAE  Ack: 0x5CA06266  Win: 0xFAEF  TcpLen: 20
+
+[**] [1:1000005:0] unknown content been sent or recieved on port 1957 [**]
+[Priority: 0] 
+04/19-20:28:31.819551 106.123.195.37:1924 -> 206.159.141.23:1957
+TCP TTL:113 TOS:0x0 ID:15568 IpLen:20 DgmLen:163 DF
+***AP*** Seq: 0x9128DAE  Ack: 0x5CA06266  Win: 0xFAEF  TcpLen: 20
+
+[**] [1:1000008:0] smss.exe is being transfered over TCP [**]
+[Priority: 0] 
+04/19-20:28:32.318772 106.123.195.37:1924 -> 206.159.141.23:1957
+TCP TTL:113 TOS:0x0 ID:15610 IpLen:20 DgmLen:50 DF
+***AP*** Seq: 0x9128E29  Ack: 0x5CA06266  Win: 0xFAEF  TcpLen: 20
+
+[**] [1:1000005:0] unknown content been sent or recieved on port 1957 [**]
+[Priority: 0] 
+04/19-20:28:32.318772 106.123.195.37:1924 -> 206.159.141.23:1957
+TCP TTL:113 TOS:0x0 ID:15610 IpLen:20 DgmLen:50 DF
+***AP*** Seq: 0x9128E29  Ack: 0x5CA06266  Win: 0xFAEF  TcpLen: 20
+
+[**] [1:1000005:0] unknown content been sent or recieved on port 1957 [**]
+[Priority: 0] 
+04/19-20:28:33.446644 106.123.195.37:1924 -> 206.159.141.23:1957
+TCP TTL:113 TOS:0x0 ID:15702 IpLen:20 DgmLen:40 DF
+***A***F Seq: 0x9128E33  Ack: 0x5CA06267  Win: 0xFAEE  TcpLen: 20
+
+[**] [1:1000005:0] unknown content been sent or recieved on port 1957 [**]
+[Priority: 0] 
+04/19-20:28:33.566451 106.123.195.37:1924 -> 206.159.141.23:1957
+TCP TTL:113 TOS:0x0 ID:15711 IpLen:20 DgmLen:40 DF
+***A**** Seq: 0x9128E34  Ack: 0x5CA06268  Win: 0xFAEE  TcpLen: 20
+
+[**] [1:1000008:0] smss.exe is being transfered over TCP [**]
+[Priority: 0] 
+04/19-20:28:34.384010 206.159.141.23:36296 -> 106.123.195.37:8884
+TCP TTL:64 TOS:0x0 ID:12622 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x5C213ED5  Ack: 0x9820D98  Win: 0x2E  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 4055634113 438620 
+

@@ -1,0 +1,10 @@
+<Sun Apr 19 20:28:28 2009> 106.123.195.37:1821 - Windows XP SP1+, 2000 SP3 
+  -> 206.159.141.23:445 (distance 15, link: ethernet/modem)
+<Sun Apr 19 20:28:28 2009> 106.123.195.37:1828 - Windows XP SP1+, 2000 SP3 
+  -> 206.159.141.23:445 (distance 15, link: ethernet/modem)
+<Sun Apr 19 20:28:30 2009> 106.123.195.37:1924 - Windows XP SP1+, 2000 SP3 
+  -> 206.159.141.23:1957 (distance 15, link: ethernet/modem)
+<Sun Apr 19 20:28:33 2009> 206.159.141.23:36296 - Linux 2.6 (newer, 3) (up: 11265 hrs) 
+  -> 106.123.195.37:8884 (distance 0, link: ethernet/modem)
+<Sun Apr 19 20:28:34 2009> 106.123.195.37:2152 - Windows XP SP1+, 2000 SP3 
+  -> 206.159.141.23:1080 (distance 15, link: ethernet/modem)
