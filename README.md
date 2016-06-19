@@ -1,5 +1,6 @@
 # elec567
 
-This is the first project of elec567 (network security and forensics).
+This is the first and second project of elec567 course (network security and forensics).
 
-The only information provided is a final report for the first project in a pdf file.
+The only information provided is a final report for the first and second project in a PDF file.
+The project problems are also provided in PDF files.
